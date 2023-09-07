@@ -1,8 +1,5 @@
-
-
-
 ### About ME
-
+#### Hello, my name is Sergey. I am a beginner developer
 ### Latest YouTube Videos
 
 ### Languages and Tools
